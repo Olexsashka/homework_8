@@ -1,11 +1,18 @@
+.main_box{
+    width: 600px;
+    height: 600px;
+    border: 1px solid chartreuse;
+    margin: 0 auto;
+}
+
 .box{
 width: 100px;
 height: 100px;
 background: #333333;
 animation-name: box;
-animation-duration: 5000ms;
+animation-duration: 8000ms;
 animation-timing-function: linear;
-animation-delay: 5000ms;
+animation-delay: 500ms;
 animation-iteration-count: infinite;
 animation-direction: normal;
 }
